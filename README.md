@@ -4,11 +4,13 @@
 <p align="center">
   <h3 align="center">Một tân sinh viên của khoa Công nghệ thông tin </h3>
 </p>
+<img width="50" height="50" src="https://img.icons8.com/bubbles/50/graduation-cap.png" alt="graduation-cap"/> <b> HỌC VẤN</b>
+<img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-student-back-to-school-flaticons-lineal-color-flat-icons-4.png" alt="external-student-back-to-school-flaticons-lineal-color-flat-icons-4"/> Trường Tiểu học Nguyễn Trung Ngạn
+<img width="64" height="64" src="https://img.icons8.com/external-nawicon-flat-nawicon/64/external-student-back-to-school-nawicon-flat-nawicon-2.png" alt="external-student-back-to-school-nawicon-flat-nawicon-2"/> Trường THCS Bình An
+<img width="64" height="64" src="https://img.icons8.com/external-bzzricon-flat-bzzricon-studio/64/external-education-womens-day-bzzricon-flat-bzzricon-flat-bzzricon-studio.png" alt="external-education-womens-day-bzzricon-flat-bzzricon-flat-bzzricon-studio"/> Trường THCS Trần Khai Nguyên
+<img width="48" height="48" src="https://img.icons8.com/color/48/studying.png" alt="studying"/> Hiện tại, tôi đang học tập tại: <a href="https://online.hcmue.edu.vn/"> Ho Chi Minh city University of Education </a>
 
 
-- ✍ I'm a student of: [Ho Chi Minh city University of Education] (https://online.hcmue.edu.vn/)
-
-- 🌱 I’m currently learning **MERN Stack.**
 
 <br />
 
